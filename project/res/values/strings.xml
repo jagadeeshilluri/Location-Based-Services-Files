@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Weather</string>
+    <string name="city_input">Enter city or zipcode here...</string>
+    <string name="current_loc">\nOR\n</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Current Location</string>
+    <string name="title_activity_weather_report">WeatherReport</string>
+    <string name="icon_result">N/A</string>
+    <string name="condition_result">\nHumidity: 100%\nPressure: 1029hPa\nCurrent Temperature: 77 °F\n</string>
+    <string name="forecast">Date\tToday\tTommorrow\t1/30\t1/31\nLow\t77\t78\t79\t80\nHigh\t90\t90\t90\t90\n</string>
+    <string name="disclaimer"><hr />\nAll rights reserved.\n</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
